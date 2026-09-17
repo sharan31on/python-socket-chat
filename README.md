@@ -2,8 +2,6 @@
 
 A high-performance local area network (LAN) chat and binary file-sharing suite built with Python TCP sockets, multi-threading, and Tkinter.
 
----
-
 ## 🌟 Key Features
 
 - **Cross-Platform Communication:** Concurrent connections across Windows PCs and Android devices (via Pydroid 3).
